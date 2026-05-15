@@ -102,4 +102,4 @@ fengresteady@gmail.com
 中关村实验室 APT团队
 
 ## License
-[BSD 3]<https://github.com/fengresteady-ship-it/terminal-network-log-collection-system/blob/main/LICENSE>
+[BSD 3]<#https://github.com/fengresteady-ship-it/terminal-network-log-collection-system/blob/main/LICENSE>
