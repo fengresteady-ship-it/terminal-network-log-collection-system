@@ -1,4 +1,4 @@
-# 网络慧眼 — 端网日志采集系统
+# 网络慧眼 — 端网日志采集系统2.0
 
 基于 Sysmon + tshark 的 Windows 端点网络日志采集平台，提供 Web 管理界面和 REST API，支持数据包抓取、Sysmon 事件日志采集与实时监控。
 
@@ -100,3 +100,6 @@ curl -X POST http://10.0.0.1:9880/api/mission/stop
 ## 交流
 fengresteady@gmail.com
 中关村实验室 APT团队
+
+## License
+[BSD 3]<https://github.com/fengresteady-ship-it/terminal-network-log-collection-system/blob/main/LICENSE>
